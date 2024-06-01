@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Innovatech-VR-Pro/static/css/main.b9c8a820.css",
+    "main.js": "/Innovatech-VR-Pro/static/js/main.8d957124.js",
+    "static/media/vrImagePro.jpg": "/Innovatech-VR-Pro/static/media/vrImagePro.e1bcab977b40d724805d.jpg",
+    "static/media/vrImage.jpg": "/Innovatech-VR-Pro/static/media/vrImage.df77c93d766050dea021.jpg",
+    "static/media/avatar.jpg": "/Innovatech-VR-Pro/static/media/avatar.a44701b4cff4d4383f82.jpg",
+    "static/media/vrImageLite.jpg": "/Innovatech-VR-Pro/static/media/vrImageLite.038692a0f2d078f559a5.jpg",
+    "index.html": "/Innovatech-VR-Pro/index.html",
+    "main.b9c8a820.css.map": "/Innovatech-VR-Pro/static/css/main.b9c8a820.css.map",
+    "main.8d957124.js.map": "/Innovatech-VR-Pro/static/js/main.8d957124.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9c8a820.css",
+    "static/js/main.8d957124.js"
+  ]
+}
